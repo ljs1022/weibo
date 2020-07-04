@@ -13,6 +13,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
@@ -105,6 +108,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1eDqQrMU1qsyajkNLlvP34wjBRn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -132,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593866497522</updated>
-      <workItem from="1593866498845" duration="281000" />
+      <workItem from="1593866498845" duration="881000" />
     </task>
     <servers />
   </component>
